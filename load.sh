@@ -22,7 +22,7 @@ sleep 3
 clear
 echo "🄽🄾🄸 🄼🄲"
 apt install wget -y
-cd ~/plugins
+cd plugins/
 wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.2/PAPER/ViaVersion-5.3.2.jar
 wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/5.3.2/PAPER/ViaBackwards-5.3.2.jar
 wget https://cdn.modrinth.com/data/wKkoqHrH/versions/FyVa6ZMD/Geyser-Spigot.jar
